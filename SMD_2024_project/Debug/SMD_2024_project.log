@@ -1,0 +1,15 @@
+﻿  CodeGenerator.cpp
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\SMD_2024_project\CodeGenerator.cpp(21,16): warning C4101: func: неиспользованная локальная переменная
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\SMD_2024_project\CodeGenerator.cpp(605,14): warning C4129: e: неизвестная escape-последовательность
+  FST.cpp
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\SMD_2024_project\FST.cpp(121,16): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\SMD_2024_project\FST.cpp(1342,26): warning C4018: <: несоответствие типов со знаком и без знака
+  In.cpp
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\SMD_2024_project\In.cpp(22,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Log.cpp
+  MFST.cpp
+  PolishNotation.cpp
+  SMD-2024.cpp
+  SemAnalysis.cpp
+  Создание кода...
+  SMD_2024_project.vcxproj -> C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\Debug\SMD_2024_project.exe

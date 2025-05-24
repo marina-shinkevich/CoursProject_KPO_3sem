@@ -1,0 +1,78 @@
+Def IntNum Func Demo(IntNum a) {
+
+	Def IntNum b;
+        b = 5;
+	if (a < b)
+
+        [
+
+        b = a + b;
+
+	];
+	Get b;
+
+};
+
+
+Main{
+
+	Out IntNum Func getCurrentDate(IntNum a);
+	Out IntNum Func getCurrentMinuts(IntNum a);
+	Out IntNum Func getCurrentHour(IntNum a);
+	Def IntNum num1;
+	num1 = getCurrentDate(1);
+	Def IntNum num2;
+	num2 = getCurrentHour(1);
+	Def IntNum num3;
+	num3 = getCurrentMinuts(1);
+
+	Def Line str1;
+	Def Line str2;
+	Def Line str3;
+
+
+
+	str1 = "Date";
+	Show str1;
+	Show num1;
+	str2 = "Hours";
+	Show str2;
+	Show num2;
+	str3 = "Minuts";
+	Show str3;
+	Show num3;
+
+	Show "Demo Function";
+	Def IntNum func;
+	func = Demo(2);
+        Show func;
+	Def IntNum x;
+	x = 10;
+	Def IntNum y;
+	y = 200;
+	While(x < y)[
+
+		x = x * 3;
+		Show x;
+
+	];
+
+	Def Symb sym;
+	sym = 'k';
+        Show "Symbol";
+	Show sym;
+
+	Def IntNum n;
+	n = 18;
+	Def IntNum m;
+	m = n / 1;
+	Def IntNum l;
+	l = n \Demo(2);
+	Show "18<<1:";
+	Show l;
+	Show "18>>1:";
+	Show m;
+	Get 0;
+
+
+}

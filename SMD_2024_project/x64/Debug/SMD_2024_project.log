@@ -1,0 +1,14 @@
+﻿  Error.cpp
+  FST.cpp
+  In.cpp
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\SMD_2024_project\In.cpp(23,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\SMD_2024_project\In.cpp(122,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  IT.cpp
+  LexAnalasis.cpp
+  Log.cpp
+  LT.cpp
+  Out.cpp
+  Parm.cpp
+  Создание кода...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\User\Documents\2курс1сем\SMD-2024\SMD_2024_project\x64\Debug\SMD_2024_project.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
